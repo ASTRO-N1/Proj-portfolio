@@ -1,6 +1,7 @@
 # 🚀 Student Portfolio Website
 
 A **modern, minimal, and beginner-friendly** portfolio template built with vanilla HTML, CSS, and JavaScript. Designed for Second Year Engineering (SE) students who want a professional online presence — **no frameworks, no npm, no complexity**.
+Hatrtttttttt
 
 > ✏️ **Edit one file (`data.js`) and your portfolio is ready.**
 
@@ -13,17 +14,17 @@ A **modern, minimal, and beginner-friendly** portfolio template built with vanil
 
 ## ✨ Features
 
-| Feature | Description |
-|---|---|
-| 🎯 **One-File Customization** | Edit only `data.js` to personalize everything |
-| 🌙 **Dark Mode** | Toggle with auto-save (remembers your preference) |
-| 📱 **Fully Responsive** | Looks great on mobile, tablet, and desktop |
-| 🎬 **Smooth Animations** | Scroll reveals, parallax, hover effects (inspired by [landonorris.com](https://landonorris.com)) |
-| ⚡ **Preloader** | Stylish loading screen with animated progress bar |
-| 🖱️ **Custom Cursor** | Interactive dot + ring cursor on desktop |
-| 📌 **Sticky Navbar** | Frosted glass effect with active section highlighting |
-| 🔤 **Marquee** | Scrolling skill names between sections |
-| 📦 **Zero Dependencies** | No npm, no frameworks, no build step |
+| Feature                       | Description                                                                                      |
+| ----------------------------- | ------------------------------------------------------------------------------------------------ |
+| 🎯 **One-File Customization** | Edit only `data.js` to personalize everything                                                    |
+| 🌙 **Dark Mode**              | Toggle with auto-save (remembers your preference)                                                |
+| 📱 **Fully Responsive**       | Looks great on mobile, tablet, and desktop                                                       |
+| 🎬 **Smooth Animations**      | Scroll reveals, parallax, hover effects (inspired by [landonorris.com](https://landonorris.com)) |
+| ⚡ **Preloader**              | Stylish loading screen with animated progress bar                                                |
+| 🖱️ **Custom Cursor**          | Interactive dot + ring cursor on desktop                                                         |
+| 📌 **Sticky Navbar**          | Frosted glass effect with active section highlighting                                            |
+| 🔤 **Marquee**                | Scrolling skill names between sections                                                           |
+| 📦 **Zero Dependencies**      | No npm, no frameworks, no build step                                                             |
 
 ---
 
@@ -116,7 +117,11 @@ const portfolioData = {
     email: "you@email.com",
     socialLinks: [
       { platform: "GitHub", url: "https://github.com/you", icon: "github" },
-      { platform: "LinkedIn", url: "https://linkedin.com/in/you", icon: "linkedin" },
+      {
+        platform: "LinkedIn",
+        url: "https://linkedin.com/in/you",
+        icon: "linkedin",
+      },
       // ...
     ],
   },
@@ -201,12 +206,12 @@ Just add another object to the `projects` array:
 
 ## 🧩 Tech Stack
 
-| Technology | Purpose |
-|---|---|
-| **HTML5** | Semantic page structure |
-| **CSS3** | Custom properties, Grid, Flexbox, animations |
-| **Vanilla JS** | DOM manipulation, Intersection Observer, localStorage |
-| **Google Fonts** | Inter + Space Grotesk typography |
+| Technology       | Purpose                                               |
+| ---------------- | ----------------------------------------------------- |
+| **HTML5**        | Semantic page structure                               |
+| **CSS3**         | Custom properties, Grid, Flexbox, animations          |
+| **Vanilla JS**   | DOM manipulation, Intersection Observer, localStorage |
+| **Google Fonts** | Inter + Space Grotesk typography                      |
 
 ---
 
