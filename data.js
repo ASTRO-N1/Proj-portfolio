@@ -8,15 +8,14 @@
 // ============================================================
 
 const portfolioData = {
-
   // ----------------------------------------------------------
   // 🧑 PERSONAL INFO
   // ----------------------------------------------------------
-  name: "Chinmay Ingle",
-  firstName: "Chinmay",   // Used in the hero greeting
-  lastName: "Ingle",      // Displayed large in the hero section
+  name: "Neeraj",
+  firstName: "Neeraj", // Used in the hero greeting
+  lastName: "Shimpi", // Displayed large in the hero section
   tagline: "Engineering Student & Aspiring Developer",
-  resumeLink: "#",        // Link to your resume (Google Drive, etc.)
+  resumeLink: "#", // Link to your resume (Google Drive, etc.)
 
   // ----------------------------------------------------------
   // 📖 ABOUT ME
@@ -29,7 +28,10 @@ When I'm not coding, you'll find me playing chess or reading tech blogs.`,
     highlights: [
       { label: "Location", value: "Pune, India" },
       { label: "University", value: "Savitribai Phule Pune University" },
-      { label: "Branch", value: "Artificial Intelligence and Machine Learning" },
+      {
+        label: "Branch",
+        value: "Artificial Intelligence and Machine Learning",
+      },
       { label: "Year", value: "Second Year (SE)" },
     ],
   },
@@ -156,7 +158,7 @@ When I'm not coding, you'll find me playing chess or reading tech blogs.`,
   // Accent color is used for buttons, highlights, and links.
   // You can use any valid CSS color value.
   theme: {
-    accentColor: "#c8ff00",       // Lime green accent (inspired by Lando Norris!)
-    accentColorDark: "#a8d900",   // Darker shade for hover states
+    accentColor: "#c8ff00", // Lime green accent (inspired by Lando Norris!)
+    accentColorDark: "#a8d900", // Darker shade for hover states
   },
 };
